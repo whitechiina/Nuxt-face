@@ -1,7 +1,7 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
-  description: 'My blog site.',
+  author: 'White Jin',
+  title: 'WhiteChiina - Blog',
+  description: 'Rubbish Blog site.',
   lang: 'zh-CN',
 }
 
