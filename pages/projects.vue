@@ -1,3 +1,7 @@
+<!--
+ * @LastEditors: whitechiina 1293616053@qq.com
+ * @LastEditTime: 2024-02-20 16:49:58
+-->
 <script setup lang="ts">
 import { projectList } from '@/site.config'
 </script>
@@ -21,7 +25,6 @@ import { projectList } from '@/site.config'
             </div>
             <div class="text-sm op-70">{{ project.desc }}</div>
           </div>
-
         </a>
       </div>
     </article>

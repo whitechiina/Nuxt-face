@@ -52,55 +52,46 @@ export const navLinks = [
 export const socialLinks = [
   {
     title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
+    path: 'https://juejin.cn/user/307518987325319',
     icon: 'i-simple-icons-juejin',
   },
   {
     title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
+    path: 'https://space.bilibili.com/476342873',
     icon: 'i-simple-icons-bilibili',
   },
   {
     title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
+    path: 'https://twitter.com/whitechiina1314',
     icon: 'i-simple-icons-twitter',
   },
   {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/whitechiina',
     icon: 'i-icon-park-outline-github',
   },
 ]
 
+// 我的项目
 export const projectList = [
   {
     name: 'Projects',
     content: [
       {
-        name: 'Nuxt Blog',
-        desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
+        name: 'Vue-Element-Jin',
+        desc: 'Vue-Element-Jin',
+        path: 'https://gitee.com/whitechiina/Vue-Element-Jin',
       },
       {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
+        name: 'vue3.0仿网易云音乐',
+        desc: 'vue3.0仿网易云音乐',
+        path: 'https://gitee.com/whitechiina/vue30-wish-wall',
       },
       {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
+        name: 'Arco-Vue3.0-admin',
+        desc: 'Arco-Vue3.0-admin',
+        path: 'https://gitee.com/whitechiina/arco-vue3.0-admin',
       },
     ],
-  },
-  {
-    name: 'Starter',
-    content: [
-      {
-        name: 'Virtuoso',
-        desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
-      },
-    ],
-  },
+  }
 ]
